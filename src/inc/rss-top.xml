@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<rss version='2.0' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+	<channel>
+		<title>Ten Digits</title>
+		<link>https://tendigits.space</link>
+		<description>What's new on the site</description>
+		<image>
+			<url>https://tendigits.space/assets/img/rss.jpg</url>
+			<title>Ten Digits</title>
+			<link>https://tendigits.space</link>
+		</image>
